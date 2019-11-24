@@ -1,0 +1,5 @@
+- TRAIN
+python ./train.py --batchsize 64 --epochs 20
+
+- PREDICT
+python ./predict.py --test-image ./images/ligne_me.png
